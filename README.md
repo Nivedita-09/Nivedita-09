@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nivedita Mahato</h1>
-<h3 align="center">👨‍💻 A passionate frontend developer | 👨‍💻 I'm also a Freelancer</h3>
+<h3 align="center">👨‍💻 A passionate frontend developer | 👨‍💻 A Reactjs Developer | 👨‍💻 I'm also a Freelancer</h3>
  ⚡ I have experience in React.Js & Next.Js
 
-- 🔭 I’m currently working on a project [Scheme Suvidha](https://scheme-suvidha-landing-page.vercel.app/)
-
-- 🌱 I’m currently learning **to build API REST**
-
-- 👯 I made landing page recently [Petaraa](https://www.petaraa.com/)
+- 🔭 I’m currently working on a project [Maxima](http://193.203.162.157:4000/)
 
 - 💬 Also a Web Designer using **Figma**
 
